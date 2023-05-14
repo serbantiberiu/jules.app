@@ -1,8 +1,16 @@
 Feature: Test add to cart functionality
 
-  Scenario: add to cart Sauce Labs Bike Light
+  Scenario Outline: add to cart Sauce Labs Bike Light
     Given I am logged into the app
-    When I click Add to chart button to the item "Sauce Labs Bike Light"
-    Then The Remove button is displayed
-    When I click Remove Button for the item "Sauce Labs Bike Light"
-    Then The Add to chart button is displayed
+    When I click Add to chart button to the item "<item>"
+    Then The Remove button is displayed for the item "<item>"
+    When I check the basket page
+    Then The item "<item>" is displayed in basket
+    When I remove the item "<item>" from the cart
+    When I go back to shopping list
+    Then The Add to chart button is displayed for the item "<item>"
+
+    Examples:
+    |item                 |
+    |sauce-labs-bike-light|
+    |sauce-labs-bolt-t-shirt|
