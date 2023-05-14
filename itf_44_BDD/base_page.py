@@ -8,5 +8,5 @@ class BasePage(Browser):
         assert actual_result == expected_result, mesaj_fail
 
     def check_link(self, link, fail_message):
-        actual_result = self.chrome.current_url()
+        actual_result = self.chrome.current_url
         assert actual_result == link, fail_message

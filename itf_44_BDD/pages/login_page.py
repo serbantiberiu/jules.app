@@ -22,11 +22,12 @@ class Login_page(base_page.BasePage):
         self.chrome.find_element(*self.LOGIN_BTN).click()
 
     def check_successful_login(self):
-        actual_result = self.chrome.current_url
-        expected_result = "https://www.saucedemo.com/inventory.html"
-        assert actual_result == expected_result, "error: i was not logged in"
+        self.check_link("https://www.saucedemo.com/inventory.html", "error: i was not logged in")
 
     def check_login_error_message(self, expected_result):
-        actual_result = self.chrome.find_element(*self.ERROR_MSG).text
-        assert actual_result==expected_result, "error: the failed login message is not displayed"
+        error_message = "error: the failed login message is not displayed"
+        self.check_error_message(self.ERROR_MSG, expected_result, error_message)
+
+
+
 
