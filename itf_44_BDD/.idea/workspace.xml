@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfbe250e-10ed-4e0f-8d5f-fc510af9d87b" name="Changes" comment="curs_12&amp;13: fix some issues">
+    <list default="true" id="dfbe250e-10ed-4e0f-8d5f-fc510af9d87b" name="Changes" comment="curs_12&amp;13: modifications to inventory test">
+      <change afterPath="$PROJECT_DIR$/../ITF_grupa44/.idea/ITF_grupa44.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Automation/.idea/Python_Automation (DESKTOP-IDAPDN1_s conflicted copy 2022-05-03).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Automation/.idea/Python_Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Automation/test_scripts/.idea/test_scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/android_emulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/google_click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android_emulator/google_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/behave-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/behave.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info_bdd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itf_grupa45/.idea/itf_grupa45.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium-grupa24/.idea/selenium-grupa24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skype_users/.idea/skype_users.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/browser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/environment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/inventory.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/inventory.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/inventory_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/inventory_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/steps/inventory_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/steps/inventory_steps.py" afterDir="false" />
@@ -35,15 +54,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/asus/PycharmProjects/itf_44_BDD",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/PycharmProjects/itf_44_BDD&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\asus\PycharmProjects\itf_44_BDD" />
@@ -109,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684085252475</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="curs_12&amp;13: modifications to inventory test">
+      <created>1684091190082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684091190082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +153,7 @@
     <MESSAGE value="curs_12: proiect BDD cu behave" />
     <MESSAGE value="curs_12&amp;13: proiect BDD cu behave" />
     <MESSAGE value="curs_12&amp;13: fix some issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="curs_12&amp;13: fix some issues" />
+    <MESSAGE value="curs_12&amp;13: modifications to inventory test" />
+    <option name="LAST_COMMIT_MESSAGE" value="curs_12&amp;13: modifications to inventory test" />
   </component>
 </project>

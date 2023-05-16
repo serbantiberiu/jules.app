@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0438e6b-05ab-4a3c-ad5a-fee9f491849f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ITF_grupa44/.idea/ITF_grupa44.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Automation/.idea/Python_Automation (DESKTOP-IDAPDN1_s conflicted copy 2022-05-03).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Automation/.idea/Python_Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Automation/test_scripts/.idea/test_scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/android_emulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google_click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itf_44_BDD/behave-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itf_44_BDD/behave.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itf_44_BDD/info_bdd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itf_grupa45/.idea/itf_grupa45.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium-grupa24/.idea/selenium-grupa24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skype_users/.idea/skype_users.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itf_44_BDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itf_44_BDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itf_44_BDD/browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../itf_44_BDD/browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itf_44_BDD/features/inventory.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../itf_44_BDD/features/inventory.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itf_44_BDD/pages/inventory_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../itf_44_BDD/pages/inventory_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itf_44_BDD/steps/inventory_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../itf_44_BDD/steps/inventory_steps.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PpDH8kU7yoJk3lZ7KkohAmxgOg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0438e6b-05ab-4a3c-ad5a-fee9f491849f" name="Changes" comment="" />
+      <created>1684145038703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684145038703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
