@@ -1,21 +1,19 @@
-from selenium import webdriver
 from behave import *
-import time
 
-@given("I am on the Jules App login page")
+@given("I am on the Jules login page")
 def step_impl(context):
     context.login_page.open_login_page()
 
-@when("I insert a correct email and leave the password field empty")
+@when("I enter a correct email address and I leave the password field empty")
 def step_impl(context):
-    context.login_page.insert_email("tashaphotographer@gmail.com")
-    context.login_page.insert_password("")
+    context.login_page.insert_email(context.login_page.valid_username)
+    context.login_page.insert_password("asd")
+    context.login_page.clear_pass_field()
 
-@then("I am not logged into the app")
-def step_impl(context):
-    assert context.chrome.current_url == "https://jules.app/sign-in", "Please enter your password!"
-
-@then('I receive the error message "Please enter your password!"')
+@then('I should see an error message: "{error_message}"')
 def step_impl(context, error_message):
     context.login_page.check_login_error_message(error_message)
 
+@then("the Log in btn is disabled")
+def step_impl(context):
+    context.login_page.check_login_button_disabled()
